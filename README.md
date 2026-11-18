@@ -6,7 +6,7 @@ One app for building a world and writing the book set in it: your people, places
 - There is no account, no sign-in and no AI. Nothing you write is sent anywhere.
 - You start with a blank app and make your own world. An example world is there if you want to look around first.
 
-**Current version: 1.6.3**
+**Current version: 1.6.4**
 
 ## Download
 
@@ -14,8 +14,8 @@ You do not need a GitHub account. Click the link for your computer and the file 
 
 | Your computer | Click to download | Size |
 |---|---|---|
-| **Mac** (macOS 13 Ventura or newer) | [**Download for Mac**](https://github.com/Dpatrick654/worldbuilding-bible-downloads/releases/download/v1.6.3/Worldbuilding-Bible-1.6.3-Mac-Install.zip) | about 6 MB |
-| **Windows** 10 or 11 | [**Download for Windows**](https://github.com/Dpatrick654/worldbuilding-bible-downloads/releases/download/v1.6.3/Worldbuilding-Bible-1.6.3-Setup.exe) | about 112 MB |
+| **Mac** (macOS 13 Ventura or newer) | [**Download for Mac**](https://github.com/Dpatrick654/worldbuilding-bible-downloads/releases/download/v1.6.4/Worldbuilding-Bible-1.6.4-Mac-Install.zip) | about 6 MB |
+| **Windows** 10 or 11 | [**Download for Windows**](https://github.com/Dpatrick654/worldbuilding-bible-downloads/releases/download/v1.6.4/Worldbuilding-Bible-1.6.4-Setup.exe) | about 112 MB |
 
 Then follow the steps for your computer below.
 
@@ -25,7 +25,7 @@ Then follow the steps for your computer below.
 
 It takes about five minutes, most of it a download. You do not need an administrator password or an Apple account. You do need to be online while installing.
 
-1. Click **Download for Mac** above. The file `Worldbuilding-Bible-1.6.3-Mac-Install.zip` lands in your **Downloads** folder.
+1. Click **Download for Mac** above. The file `Worldbuilding-Bible-1.6.4-Mac-Install.zip` lands in your **Downloads** folder.
 2. Open **Downloads** and double-click the zip. A folder named **Worldbuilding Bible - Mac Install** appears next to it. Keep everything in that folder together.
 3. Open the folder and double-click **Install Worldbuilding Bible.command**.
 4. Your Mac will stop it the first time and say it *cannot be opened* or that Apple *could not verify* it. This is expected: the app is not registered with Apple yet. Click **Done** (or **OK**). Nothing has run.
@@ -35,7 +35,7 @@ It takes about five minutes, most of it a download. You do not need an administr
 
 If double-clicking the installer opens it as text instead, right-click it and choose **Open With > Terminal**.
 
-**Finding the app afterwards:** in Finder choose **Go > Home**, then open **Applications**. It is named *Worldbuilding Bible v1.6.3*. Drag it to your Dock if you like. The first time you open the app itself, your Mac may ask once more; **Open Anyway** works the same way.
+**Finding the app afterwards:** in Finder choose **Go > Home**, then open **Applications**. It is named *Worldbuilding Bible v1.6.4*. Drag it to your Dock if you like. The first time you open the app itself, your Mac may ask once more; **Open Anyway** works the same way.
 
 **One thing to know:** this Mac version was built on a Windows computer and you are among the first to try it on a Mac. Please make a small test world first: add an entry, quit, open the app again and check it is still there, before you put real writing in.
 
@@ -48,7 +48,7 @@ If double-clicking the installer opens it as text instead, right-click it and ch
 It takes two or three minutes. You do not need an administrator password.
 
 1. Click **Download for Windows** above and save the file. If your browser says the file *isn't commonly downloaded*, choose to keep it (in Edge: the three dots beside the download, **Keep**, then **Show more**, **Keep anyway**).
-2. Double-click `Worldbuilding-Bible-1.6.3-Setup.exe`.
+2. Double-click `Worldbuilding-Bible-1.6.4-Setup.exe`.
 3. Windows shows a blue box that says *Windows protected your PC*. This is expected: the installer is not signed yet. Click **More info**, then **Run anyway**.
 4. The app installs in a few seconds and opens by itself. It adds **Worldbuilding Bible** to your Start menu and a shortcut to your desktop.
 
@@ -62,6 +62,15 @@ The app opens on an empty first screen with two choices:
 - **Open the example world**: a small invented world called *The Saltmarch*, to look around in. Change anything in it; you can reset it whenever you like.
 
 The question mark at the top right (or the F1 key) opens **Help**, which explains each part of the app.
+
+## Updating from an earlier version
+
+The app tells you when a newer version is out: a notice appears with a **Get it** button, and the world menu offers it too. It does not update by itself.
+
+- **Get it** opens the download for your computer. Install it the same way as the first time.
+- **Your worlds are not touched.** They are kept in their own folder, and the new version opens them as they are.
+- **Mac:** the new version sits beside the old one in your Applications folder, each with its version in its name. Once the new one opens, drag the old one to the Trash.
+- **Windows:** the installer replaces the old version.
 
 ## Where your writing is kept
 
